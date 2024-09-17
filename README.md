@@ -43,6 +43,10 @@ LAE-1M dataset contains abundance categories composed of coarse-grained LAE-COD 
 </p>
 
 ## Model
+The pipeline for solving the LAE task: LAE-Label Engine expands vocabulary for open-vocabulary pre-training; LAE-DINO is a DINO-based open-vocabulary detector with Dynamic Vocabulary Construction (DVC) and Visual-Guided Text Prompt Learning (VisGT), which has a pre-training and fine-tuning paradigm for open-set and closed-set detection.
+<p align="center">
+    <img src="assets/LAE-DINO-Pipeline.png" alt="Image" width="700">
+</p>
 
 ## Statement
 
