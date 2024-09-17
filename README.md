@@ -2,7 +2,7 @@
 <h1 align="center"> <img width="30" alt="image" src="./assets/lae-dino.png"> Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community</h1>
 
 
-<h4 align="center"><em>Jiancheng Pan*, &nbsp; &nbsp; Yanxing Liu*, &nbsp; &nbsp; Yuqian Fu✉ &nbsp; &nbsp; Muyuan Ma</em></h4>
+<h4 align="center"><em>Jiancheng Pan*, &nbsp; &nbsp; Yanxing Liu*, &nbsp; &nbsp; Yuqian Fu✉, &nbsp; &nbsp; Muyuan Ma,</em></h4>
 
 <h4 align="center"><em>Jiaohao Li, &nbsp; &nbsp; Danda Pani Paudel, &nbsp; &nbsp;Luc Van Gool, &nbsp; &nbsp; Xiaomeng Huang✉ </em></h4>
 <p align="center">
